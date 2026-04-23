@@ -1,0 +1,24 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 24px 20px;
+    border-radius: 5px;
+    background-color: #cfcbcb;
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* Texte principal en rouge */
+.text-red {
+    color: #db1717;
+}
+
+/* Champ de saisie en rouge */
+.input-red {
+    color: red;
+}
+
